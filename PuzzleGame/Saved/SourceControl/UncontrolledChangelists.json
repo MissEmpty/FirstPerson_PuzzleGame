@@ -7,8 +7,6 @@
 			"files": [
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Maps/L_FirstPerson.umap",
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/GM_FirstPerson.uasset",
-				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/C_FirstPerson.uasset",
-				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/PC_FirstPerson.uasset",
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/Core/C_FirstPerson.uasset",
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/Core/GM_FirstPerson.uasset",
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/Core/PC_FirstPerson.uasset",
@@ -17,7 +15,13 @@
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/I_Interactable.uasset",
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_interactableTest.uasset",
 				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Door.uasset",
-				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Lever.uasset"
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Lever.uasset",
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_GrapableBase.uasset",
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/InteractionSystem/FL_InteractionSystem.uasset",
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Assets/Blockout/SM_Cube.uasset",
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Assets/Blockout/SM_Paper.uasset",
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/C_FirstPerson.uasset",
+				"C:/Users/Klara/Documents/GitHub/FirstPerson_PuzzleGame/PuzzleGame/Content/FirstPersonAdventure/Blueprints/PC_FirstPerson.uasset"
 			]
 		}
 	]
